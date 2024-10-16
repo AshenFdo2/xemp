@@ -1,1 +1,1 @@
-Paste here your query_id/user
+user=%7B%22id%22%3A6331394120%2C%22first_name%22%3A%22Sk%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22T33fss%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-7332709577925241008&chat_type=sender&start_param=utm_bot_play&auth_date=1729089120&hash=764829f129da4bfba6d074d28a41a085473d1134a74bcb1de867c045bf596087
